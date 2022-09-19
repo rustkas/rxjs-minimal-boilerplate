@@ -5,6 +5,7 @@ Minimal boilerplate for a barebones project in modern [RxJS](https://rxjs.dev/)
 
 `npm install rxjs`
 
+
 ## Run the code
 
 `node test.js`
