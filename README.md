@@ -6,10 +6,6 @@ Minimal boilerplate for a barebones project in modern [RxJS](https://rxjs.dev/)
 `npm install rxjs`
 
 
-## Run the code
-
-`node test.js`
-
 ## Links
 - [Book’s website](https://pragprog.com/titles/smreactjs5/reactive-programming-with-rxjs-5/)
 - [ReactiveX](https://reactivex.io/)
