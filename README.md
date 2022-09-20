@@ -12,5 +12,6 @@ Minimal boilerplate for a barebones project in modern [RxJS](https://rxjs.dev/)
 
 ## Links
 - [Book’s website](https://pragprog.com/titles/smreactjs5/reactive-programming-with-rxjs-5/)
+- [ReactiveX](https://reactivex.io/)
 - [RxMarbles](https://rxmarbles.com/)
 - [RxVisualizer](https://rxviz.com/)

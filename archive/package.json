@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-minimal-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimal boilerplate for RxJS development",
+  "author": "Sergi Mansilla <sergi.mansilla@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "babel-loader": "^8.2.5",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.74.0"
+  },
+  "dependencies": {
+    "rxjs": "^5.5.12"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}
